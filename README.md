@@ -40,8 +40,10 @@ Actualmente me encuentro **aprendiendo y reforzando**:
 ---
 ## GitHub Stats
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiMenRo&show_icons=true&hide_title=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiMenRo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiMenRo&show_icons=true&theme=default&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiMenRo&layout=compact&cache_seconds=1800" />
+</p>
 
 ---
 
