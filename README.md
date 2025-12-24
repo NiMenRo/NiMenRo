@@ -38,6 +38,12 @@ Actualmente me encuentro **aprendiendo y reforzando**:
 
 
 ---
+## GitHub Stats
+
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiMenRo&show_icons=true&hide_title=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiMenRo&layout=compact)
+
+---
 
 ## 📂 Proyectos destacados
 
